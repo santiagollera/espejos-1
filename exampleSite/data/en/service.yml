@@ -39,9 +39,8 @@ service:
     right at the coast of the Semantics
   service_item:
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Tranquilidad
+    content: Tú solo dinos que espejo necesitas y nosotros nos encargamos de todo
   - icon: ion-compass
     name: Entregamos más rápido
     content: Nuestras entregas son las más rápidas y con segurro incluído. El espejo
