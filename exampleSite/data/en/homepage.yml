@@ -28,7 +28,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
   service_item:
   - name: test
     content: tasdadsad
