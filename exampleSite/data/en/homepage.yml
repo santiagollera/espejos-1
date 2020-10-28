@@ -22,7 +22,8 @@ about:
   image: images/wrapper-img.png
   button:
     label: Leer más
-    enable: false
+    enable: true
+    link: https://espejosdemaquillaje.netlify.app/project/rio-furniture-6/
 portfolio:
   enable: true
   bg_image: images/port.jpg
