@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: false
-  title: Espejos de Maquillaje <br> Iluminación de alta calidad
+  title: Espejos de Maquillaje
   content: ''
   button:
     enable: true
