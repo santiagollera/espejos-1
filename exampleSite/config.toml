@@ -49,27 +49,23 @@ name = "Tienda"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Envíos"
 weight = 4
 [[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Soporte"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "faq"
-name = "FAQ"
+name = "Preguntas frecuentes"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Términos y Condiciones"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
