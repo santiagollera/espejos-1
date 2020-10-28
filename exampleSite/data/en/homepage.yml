@@ -20,11 +20,11 @@ about:
     enable: false
 portfolio:
   enable: true
-  bg_image: images/banner.jpg
+  bg_image: images/port.jpg
   title: 'Creemos en un espejo de calidad asequible '
   content: " "
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
