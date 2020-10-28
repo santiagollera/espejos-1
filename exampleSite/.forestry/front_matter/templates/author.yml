@@ -5,11 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: image
-  type: file
-  config:
-    maxSize: 250
-  label: image
 - type: text
   name: email
   label: email
