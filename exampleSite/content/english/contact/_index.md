@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Pedir un espejo
+description: o contáctanos con cualquier pregunta
+bg_image: images/featue-bg.jpg
+
 ---
