@@ -1,6 +1,6 @@
 ---
-title: Nuestro Proyecto
-description: this is meta description
+title: Nuestro Productos
+description: Encuentra el espejo que más se ajusta a tus necesidades
 bg_image: "/images/espejos-de-maquillaje.jpg"
 
 ---
