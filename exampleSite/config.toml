@@ -1,5 +1,5 @@
 baseURL = "espejosdemaquillaje.netlify.app"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
@@ -149,7 +149,7 @@ email = "espejosdemaquillaje.es@gmail.com"
 google_analitycs_id = ""
 location = "Madrid, España"
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "250px"
 mobile = "+34 620992550"
 multi_author = false
 [params.cookies]
@@ -183,8 +183,6 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
 preloader = ""
