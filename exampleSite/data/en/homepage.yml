@@ -20,7 +20,7 @@ about:
     enable: false
 portfolio:
   enable: true
-  bg_image: images/espejos-de-maquillaje.jpg
+  bg_image: images/banner.jpg
   title: 'Creemos en un espejo de calidad asequible '
   content: " "
   button:
