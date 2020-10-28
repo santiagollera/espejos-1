@@ -24,3 +24,5 @@ information:
 Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su pesjo ligero hace que podamos transportarlo con facilidad si hace falta.
 
 Por estas características se convierte en una herramienta tanto para profesionales como amateurs del maquillaje, ya que te lo puedes llevar a trabajar en una boda y es lo suficientemente grande como para tenerlo en el baño o la mesa de tocador de la habitación.
+
+[![](/images/boton.png)](contact "Pedir")
