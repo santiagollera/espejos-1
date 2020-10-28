@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/espejos-de-maquillaje.jpg
+  bg_image: images/banner.jpg
   bg_overlay: false
   title: Espejos de Maquillaje
   content: ''
