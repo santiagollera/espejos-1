@@ -41,11 +41,11 @@ service:
     content: Tú solo dinos que espejo necesitas y nosotros nos encargamos de todo
   - icon: ion-compass
     name: Entregamos más rápido
-    content: Nuestras entregas son las más rápidas y con segurro incluído. El espejo
-      te lelgará en perfecto estado
+    content: Nuestras entregas son las más rápidas y con seguro incluído. El espejo
+      te llegará en perfecto estado, garantizado
   - icon: ion-earth
     name: Compra segura Online
-    content: Nuestro comercio electrónico practica la compra segura a través de plataformas
-      PayPal y Stripe
+    content: Nuestro comercio electrónico practica la compra segura a través de las
+      plataformas PayPal y Stripe
 cta:
   enable: true
