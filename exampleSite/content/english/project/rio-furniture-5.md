@@ -1,25 +1,24 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
-draft: false
-image : "images/portfolio/work5.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Illustration"
+title: Espejo Foxtrot
+description: this is meta description
+image: "/images/wrapper-img.png"
+bg_image: "/images/espejos-de-maquillaje.jpg"
+category: Amateur
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
----
+- label: Client
+  info: Jannie Kelonsky
+- label: What We Did
+  info: Website Redesign
+- label: Tools Used
+  info: Photoshop,Illustrator
+- label: Completed on
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
 
+---
 ## Behance Website Redesign
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
