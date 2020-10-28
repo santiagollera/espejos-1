@@ -7,16 +7,16 @@ category: Professional
 information:
 - label: Dimensiones
   info: 60X80cm
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Precio
+  info: 89€
+- label: Materiales
+  info: Madera y cristal
+- label: Tiempo de elaboración
+  info: 2 días
+- label: 'Iluminación '
+  info: LED
+- label: Iluminación total
+  info: 2000 lumens
 
 ---
 ## Espejo Modelo Alpha categoría profesional
