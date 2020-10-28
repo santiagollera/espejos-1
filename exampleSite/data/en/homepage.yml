@@ -21,7 +21,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/port.jpg
-  title: 'Creemos en un espejo de calidad asequible '
+  title: ''
   content: " "
   button:
     enable: false
