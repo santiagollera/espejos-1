@@ -1,8 +1,8 @@
 ---
 title: 'Espejo Gamma '
 description: this is meta description
-image: images/portfolio/work3.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/wrapper-img.png"
+bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
 - label: Client
