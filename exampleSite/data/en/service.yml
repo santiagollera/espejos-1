@@ -38,7 +38,8 @@ service:
   service_item:
   - icon: ion-coffee
     name: Tranquilidad
-    content: Tú solo dinos que espejo necesitas y nosotros nos encargamos de todo
+    content: 'Tú solo dinos qué espejo necesitas y nosotros nos encargamos de todo.
+      Diseño, fabricación y envío todo incluído en el precio. '
   - icon: ion-compass
     name: Entregamos más rápido
     content: Nuestras entregas son las más rápidas y con seguro incluído. El espejo
