@@ -1,4 +1,4 @@
-baseURL = "espejosdemaquillaje.netlify.app"
+baseURL = "espejosdemaquillaje.es"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
