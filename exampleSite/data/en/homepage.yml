@@ -52,9 +52,9 @@ cta:
 funfacts:
   enable: true
   title: Acerca de nosotros
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: |-
+    Somos una empresa que fabrica espejos de maquillaje a mano con mucho amor y dedicación.
+    Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Clientes contactados
