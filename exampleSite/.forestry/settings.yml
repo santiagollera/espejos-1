@@ -26,7 +26,7 @@ sections:
   templates:
   - author
 - type: heading
-  label: Project
+  label: Productos
 - type: directory
   path: exampleSite/content/english/project
   label: Project (en)
@@ -76,7 +76,7 @@ sections:
   templates:
   - new-page
 - type: heading
-  label: Data
+  label: Datos
 - type: directory
   path: exampleSite/data/en
   label: Data (en)
