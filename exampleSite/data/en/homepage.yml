@@ -30,8 +30,14 @@ portfolio:
 service:
   enable: true
   service_item:
+  - name: test
+    content: tasdadsad
+    icon: icon
   - name: Test
     content: adasdads
+    icon: icon
+  title: Test
+  description: Description
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
