@@ -4,7 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: false
   title: Espejos de Maquillaje
-  content: Profesionales con iluminación de alta calidad a un súper precio
+  content: Iluminación del alta calidad
   button:
     enable: true
     label: Ver modelos
