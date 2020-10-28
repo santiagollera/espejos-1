@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: airspace-hugo/layouts/partials
+  path: airspace-hugo/layouts/partials/header.html
   label: Menu
 - type: heading
   label: Blog Post
