@@ -11,8 +11,13 @@ banner:
     link: project
 about:
   enable: true
-  title: Acerca de nosotros
-  description: Somos Noelia y César, la iniciativa nació....
+  title: El espejo de Maquillaje Alpha
+  description: Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin
+    elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum
+    eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim
+    aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros
+    ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst
+    pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
   content: ''
   image: images/wrapper-img.png
   button:
