@@ -28,14 +28,8 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: false
-  service_item:
-  - name: test
-    content: tasdadsad
-    icon: icon
-  - name: Test
-    content: adasdads
-    icon: icon
+  enable: true
+  service_item: []
   title: Test
   description: Description
 cta:
