@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/banner.jpg
+  image: images/banner.jpg
   title: Espejos de maquillaje <br> de calidad a buen precio
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
