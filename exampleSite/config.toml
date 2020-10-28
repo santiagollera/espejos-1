@@ -36,12 +36,12 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "/fr"
-name = "Home"
+URL = "https://espejosdemaquillaje.es/"
+name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
