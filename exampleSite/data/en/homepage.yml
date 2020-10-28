@@ -35,14 +35,14 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Un rostro mejor iluminado para un maquillaje perfecto
+  content: La luz es lo más importante para poder apreciar cada detalle de tu estilo.
+    Nuestra iluminación LED profesional ofrece una visión muy detallada y clara del
+    rostro para poder estilizarlo como quieras
   button:
     enable: true
-    label: Tell Us Your Story
-    link: contact
+    label: Ver modelos
+    link: project
 funfacts:
   enable: true
   title: Acerca de nosotros
