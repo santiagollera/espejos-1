@@ -144,7 +144,7 @@ home = ["HTML"]
 [params]
 author = "Santiago Llera"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Tienda Online de Espejos de maquillaje profesionales en todos los tamaños. Espejos hechos a medida con iluminación de calidad"
 email = "espejosdemaquillaje.es@gmail.com"
 google_analitycs_id = ""
 location = "Madrid, España"
@@ -163,7 +163,7 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Pedir un espejo"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
