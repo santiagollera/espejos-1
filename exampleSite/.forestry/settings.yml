@@ -7,7 +7,6 @@ sections:
 - type: document
   path: airspace-hugo/layouts/partials
   label: Menu
-  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
