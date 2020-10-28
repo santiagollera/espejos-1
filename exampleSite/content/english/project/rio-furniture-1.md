@@ -3,7 +3,7 @@ title: Espejo Beta
 description: this is meta description
 image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
-category: UI/UX Design
+category: Baño
 information:
 - label: Client
   info: Jannie Kelonsky
