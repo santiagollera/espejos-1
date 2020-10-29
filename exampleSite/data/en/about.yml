@@ -3,10 +3,20 @@ about:
   enable: true
   image: images/acerca.jpg
   title: Nuestro maravilloso equipo
-  content: |
-    Somos Noelia y César nos encanta hacer espejos porque es nuestra pasión....
-
-    Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
+  content: "EspejosdeMaquillaje.es nace de una idea pionera en el mundo del maquillaje,
+    de los pensamientos de nuestra maquilladora internacional Noelia Navarro. Líderes
+    en el sector no sólo por calidad de nuestros materiales sino por la constante
+    evolución de la técnica artística. \nNuestros productos están orientados siempre
+    al mundo del maquillaje y es por eso que nuestras bombillas son LED con alternancia
+    de luz fría y cálida. Un equipo humano al que le gusta el trato cercano con el
+    cliente por eso desde que muestra interés por un producto, le asesoramos y mostramos
+    el abanico de posibilidad acorde a sus necesidades.\nFabricamos completamente
+    artesanal con buenos materiales elegidos y pensados para maquilladores con certificación
+    UE. Nuestros diseños son sencillos y de alta durabilidad, nos avalan peluquerías,
+    tiendas de estética, estudios de cine y TV son nuestros principales clientes pero
+    sin dejar de lado al usuario particular que simplemente quiere darse el capricho
+    de tener un buen espejo de maquillaje en casa.\nPonga sus reflejos en nuestras
+    manos y no se arrepentirá\n"
   button:
     enable: true
     label: Contactar
