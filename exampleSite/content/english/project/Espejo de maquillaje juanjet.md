@@ -1,6 +1,6 @@
 ---
 title: Modelo Juanjet
-description: el modelo más popular
+description: 100x60cm
 image: "/images/s-l1600.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Professional
