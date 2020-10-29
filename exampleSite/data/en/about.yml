@@ -17,9 +17,9 @@ about:
   - icon: ion-ios-chatbubble-ellipses-outline
     name: Emails contestados
     count: "126"
-  - icon: ion-ios-pint-outline
+  - icon: ion-ios-happy-outline
     name: Clientes satisfechos
-    count: "70"
+    count: "48"
 features:
   enable: true
   title: We are indepented Design & Development Agency
