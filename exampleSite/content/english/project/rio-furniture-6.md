@@ -1,6 +1,6 @@
 ---
 title: Espejo Alpha
-description: this is meta description
+description: el modelo más popular
 image: "/images/s-l1600.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Professional
