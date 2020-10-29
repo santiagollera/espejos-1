@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/banner.jpg
   bg_overlay: false
-  title: Supercar Marbella
-  content: ''
+  title: Espejos de Maquillaje
+  content: AMA TU ESPEJO
   button:
     enable: true
     label: Ver modelos
