@@ -1,6 +1,6 @@
 ---
 title: Soporte
-description: Soporte Espejos de Maquillaje
+description: Espejos de Maquillaje
 subtitle: ''
 date: 2020-03-23T13:05:29.000+06:00
 bg_image: images/featue-bg.jpg
