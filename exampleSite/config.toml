@@ -7,10 +7,10 @@ theme = "airspace-hugo"
 title = "Espejos de Maquillaje"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "en-us"
-languageName = "En"
-weight = 1
+copyright = "Copyright &copy; 2020 www.espejosdemaquillaje.es by Santiago Llera"
+languageCode = "es-Es"
+languageName = "Es"
+weight = "1"
 [[Languages.en.menu.footer]]
 URL = "about"
 name = "About"
@@ -55,14 +55,6 @@ weight = 4
 hasChildren = true
 name = "Soporte"
 weight = 6
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "Preguntas frecuentes"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Términos y Condiciones"
-parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contacto"
@@ -180,7 +172,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
