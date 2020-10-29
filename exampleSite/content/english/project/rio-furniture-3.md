@@ -1,5 +1,5 @@
 ---
-title: 'Espejo Gamma '
+title: Modelo Noelia
 description: this is meta description
 image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
