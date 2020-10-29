@@ -4,7 +4,7 @@ banner:
   bg_image: images/banner.jpg
   bg_overlay: false
   title: Espejos de Maquillaje
-  content: Espejito..espejito...Quién es la mejor maquillada?
+  content: 'Ama tu espejo '
   button:
     enable: true
     label: Ver modelos
