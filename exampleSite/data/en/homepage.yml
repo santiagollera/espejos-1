@@ -4,7 +4,7 @@ banner:
   bg_image: images/banner.jpg
   bg_overlay: false
   title: Espejos de Maquillaje
-  content: 'Ama tu espejo '
+  content: AMA TU ESPEJO
   button:
     enable: true
     label: Ver modelos
