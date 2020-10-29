@@ -1,6 +1,6 @@
 ---
 title: Modelo Noelia
-description: this is meta description
+description: 120x60cm
 image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
