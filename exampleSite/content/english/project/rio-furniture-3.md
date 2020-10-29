@@ -5,8 +5,8 @@ image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
-- label: 288€
-  info: ''
+- label: Dimensiones
+  info: 120x60cm
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
