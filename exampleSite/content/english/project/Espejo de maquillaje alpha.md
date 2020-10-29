@@ -1,14 +1,14 @@
 ---
-title: Espejo Alpha
+title: Modelo Juanjet
 description: el modelo más popular
 image: "/images/s-l1600.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Professional
 information:
 - label: Dimensiones
-  info: 60X80cm
+  info: 100X60cm
 - label: Precio
-  info: 89€
+  info: 240€
 - label: Materiales
   info: Madera y cristal
 - label: Tiempo de elaboración
@@ -19,7 +19,7 @@ information:
   info: 2000 lumens
 
 ---
-## Espejo Modelo Alpha categoría profesional
+## Espejo Modelo Juanjet categoría profesional
 
 Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su pesjo ligero hace que podamos transportarlo con facilidad si hace falta.
 
