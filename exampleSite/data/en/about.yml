@@ -15,10 +15,10 @@ about:
   - icon: ion-ios-heart-outline
     name: Proyectos completados
     count: "48"
-  - icon: ion-ios-chatbubble-ellipses-outline
+  - icon: ion-ios-chatboxes-outline
     name: Emails contestados
     count: "126"
-  - icon: ion-ios-happy-outline
+  - icon: ion-ios-composes-outline
     name: Clientes satisfechos
     count: "48"
 features:
