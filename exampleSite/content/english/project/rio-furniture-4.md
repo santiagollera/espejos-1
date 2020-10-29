@@ -1,7 +1,7 @@
 ---
 title: Espejo Charlie
 description: this is meta description
-image: "/images/wrapper-img.png"
+image: "/images/ganma.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Professional
 information:
