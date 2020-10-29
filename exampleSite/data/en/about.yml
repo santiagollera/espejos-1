@@ -3,7 +3,9 @@ about:
   enable: true
   image: images/acerca.jpg
   title: Nuestro maravilloso equipo
-  content: Somos Noelia y César....
+  content: 'Somos Noelia y César nos encanta hacer espejos porque es nuestra pasión....
+
+'
   button:
     enable: true
     label: Contactar
