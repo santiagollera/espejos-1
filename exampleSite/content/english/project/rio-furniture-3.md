@@ -5,8 +5,8 @@ image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: Dimensiones
+  info: 288€
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
