@@ -1,14 +1,14 @@
 ---
-title: Espejo Beta
-description: this is meta description
+title: Modelo Marian
+description: 150x60cm
 image: "/images/beta.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Baño
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: Dimensiones
+  info: 150x60cm
+- label: Precio
+  info: 360€
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
