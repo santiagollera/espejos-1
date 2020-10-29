@@ -7,8 +7,8 @@ category: Amateur
 information:
 - label: Dimensiones
   info: 120x60cm
-- label: What We Did
-  info: Website Redesign
+- label: Precio
+  info: 288€
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
