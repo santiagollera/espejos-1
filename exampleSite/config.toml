@@ -52,6 +52,7 @@ URL = "service"
 name = "Envíos"
 weight = 4
 [[Languages.en.menu.main]]
+URL = "faq"
 hasChildren = true
 name = "Soporte"
 weight = 6
