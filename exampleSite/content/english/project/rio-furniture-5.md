@@ -1,14 +1,14 @@
 ---
-title: Espejo Foxtrot
-description: this is meta description
+title: Modelo Marisa
+description: 120x75cm
 image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: Dimensiones
+  info: 120x75cm
+- label: Precio
+  info: 360€
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
