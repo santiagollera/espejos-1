@@ -1,62 +1,33 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Soporte
+description: Soporte Espejos de Maquillaje
+subtitle: ''
+date: 2020-03-23T13:05:29.000+06:00
+bg_image: images/featue-bg.jpg
+
 ---
+### Preguntas Frecuentes
 
-### Welcome to Airspace!
+Estas son algunas de las preguntas y respuestas que con mayor continuidad comunicamos pero si tienes alguna otra que no encuentres aquí no te preocupes, te atenderemos con todo el placer en el [formulario de contacto](https://espejosdemaquillaje.es/contact/ "Contacto") o al número +34 622992550.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+#### 1. ¿Cuánto tarda un pedido en llegarme a casa?
 
-#### 1.Overview
+Depende sobre todo del tipo de pedido que se haga y la ubicación de destino. El pedido que más podría tardar sería por ejemplo 3 espejos de medidas personalizadas a enviar a un pueblo de las islas Baleares. Un pedido de este tipo podría tardar hasta 10 días laborales en entregarse. Por el contrario un pedido del modelo más vendido que tengamos en stock a Madrid podría recibirse en menos de 24hs. Igualmente al realizar un pedido se le informará del tiempo necesario que necesitamos para entregarle el producto.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+#### 2. ¿Qué pasa si recibo el espejo roto?
 
-#### 2. Data We Collect
+Los envíos están asegurados con la empresa SEUR que es la más seria y profesional del mercado de mensajería y en caso improbable de que reciba el espejo dañado puede elegir si recibir un reembolso o que le enviemos otro en servicio urgente de 24hs gratis.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+#### 3. ¿Hacéis espejos de tamaño personalizado?
 
-#### 3. How We Use Data
+Si por supuesto, los espejos los fabricamos nosotros así que si quieres tener las dimensiones exactas para tu baño o habitación sólo debes indicar en el [formulario de pedido](https://espejosdemaquillaje.es/contact/ "Pedido") "Dimensiones personalizadas" y ahí podrás indicar las medidas que necesitas y te hará automáticamente un cálculo del precio.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+#### 4. ¿Cómo hago para pagarlo?
 
-#### 4. How We Disclose Data.
+Aceptamos prácticamente todas las modalidades de pago. Puedes pagarle en efectivo al repartidor en el momento de la entrega, mediante PayPayl o Stripe con tarjeta de crédito, Bizum, o simplemente una transferencia bancaria una vez recibida la factura de presupuesto.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+#### 5. ¿El precio es negociable?
 
-#### 5. Security
+Nuestros precios ahora mismo son los mejores del mercado por lo que no hacemos rebajas  por un pedido único pero si quieres ajustar tu presupuesto, simplemente modifica las dimensiones del espejo o las prestaciones como los materiales y el tipo de iluminación.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+En caso de pedidos a partir de 3 espejos si que se puede hacer descuento de hasta el 15% por volumen.
