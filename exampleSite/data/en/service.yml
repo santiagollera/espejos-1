@@ -5,7 +5,7 @@ about:
   content: |
     El envío se realiza mediante la mejor compañía de mensajería SEUR y está asegurado a todo riesgo para garantizar la correcta manipulación y transporte del producto.
     En caso de la improbable situación de que llegue en mal estado será reembolsado el 100% de la cantidad pagada o se reemplazará con otro igual en menos de 24hs según la elección del cliente.
-  image: images/company/SEUR.jpg
+  image: images/seur.jpg
   button:
     enable: true
     label: Ver modelos

@@ -1,6 +1,6 @@
 ---
-title: "Service"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Enviamos con SEUR
+description: Servicio Premium para todos los envíos
+bg_image: images/featue-bg.jpg
+
 ---
