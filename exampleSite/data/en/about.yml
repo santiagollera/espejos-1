@@ -11,12 +11,12 @@ about:
     label: Contactar
     link: https://espejosdemaquillaje.netlify.app/contact/
   funfacts:
-  - icon: ion-ios-flask-outline
+  - icon: ion-ios-heart-outline
     name: Proyectos completados
-    count: "349"
-  - icon: ion-ios-flame-outline
+    count: "48"
+  - icon: ion-ios-chatbubble-ellipses-outline
     name: Emails contestados
-    count: "35000"
+    count: "126"
   - icon: ion-ios-pint-outline
     name: Clientes satisfechos
     count: "70"
