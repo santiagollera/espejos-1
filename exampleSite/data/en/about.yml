@@ -1,12 +1,9 @@
 ---
 about:
   enable: true
-  image: images/banner.jpg
-  title: Espejos de maquillaje <br> de calidad a buen precio
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  image: images/acerca.jpg
+  title: Nuestro maravilloso equipo
+  content: Somos Noelia y César....
   button:
     enable: true
     label: Contactar
