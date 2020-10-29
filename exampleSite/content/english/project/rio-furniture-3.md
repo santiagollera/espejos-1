@@ -5,8 +5,8 @@ image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
-- label: Dimensiones
-  info: 288€
+- label: 288€
+  info: ''
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
