@@ -1,14 +1,14 @@
 ---
-title: Espejo Delta
-description: this is meta description
+title: Modelo Carla
+description: 200x60cm
 image: "/images/wrapper-img.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: Dimensiones
+  info: 200x60cm
+- label: Precio
+  info: 480€
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
