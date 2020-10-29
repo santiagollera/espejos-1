@@ -18,7 +18,7 @@ about:
   - icon: ion-ios-chatboxes-outline
     name: Emails contestados
     count: "126"
-  - icon: ion-ios-composes-outline
+  - icon: ion-ios-compose-outline
     name: Clientes satisfechos
     count: "48"
 features:
