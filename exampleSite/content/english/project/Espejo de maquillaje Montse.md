@@ -19,7 +19,7 @@ information:
   info: 2000 lumens
 
 ---
-## Espejo Modelo Juanjet categoría profesional
+## Espejo Modelo Montse categoría profesional
 
 Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su pesjo ligero hace que podamos transportarlo con facilidad si hace falta.
 
