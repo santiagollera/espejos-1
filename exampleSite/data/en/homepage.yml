@@ -12,12 +12,10 @@ banner:
 about:
   enable: true
   title: El espejo de Maquillaje Alpha
-  description: Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin
-    elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum
-    eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim
-    aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros
-    ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst
-    pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
+  description: |-
+    Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su pesjo ligero hace que podamos transportarlo con facilidad si hace falta.
+
+    Por estas características se convierte en una herramienta tanto para profesionales como amateurs del maquillaje, ya que te lo puedes llevar a trabajar en una boda y es lo suficientemente grande como para tenerlo en el baño o la mesa de tocador de la habitación.
   content: ''
   image: images/wrapper-img.png
   button:
