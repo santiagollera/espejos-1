@@ -1,7 +1,7 @@
 ---
 title: Espejo Beta
 description: this is meta description
-image: "/images/wrapper-img.png"
+image: "/images/beta.jpg"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Baño
 information:
