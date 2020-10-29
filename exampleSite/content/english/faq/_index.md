@@ -8,7 +8,7 @@ bg_image: images/featue-bg.jpg
 ---
 ### Preguntas Frecuentes
 
-Estas son algunas de las preguntas y respuestas que con mayor continuidad comunicamos pero si tienes alguna otra que no encuentres aquí no te preocupes, te atenderemos con todo el placer en el [formulario de contacto](https://espejosdemaquillaje.es/contact/ "Contacto") o al número +34 622992550.
+Estas son algunas de las preguntas y respuestas que con mayor continuidad comunicamos pero si tienes alguna otra que no encuentres aquí no te preocupes, te atenderemos con todo el placer en el [**formulario de contacto **](https://espejosdemaquillaje.es/contact/ "Contacto")o al número +34 622992550.
 
 #### 1. ¿Cuánto tarda un pedido en llegarme a casa?
 
@@ -20,7 +20,7 @@ Los envíos están asegurados con la empresa SEUR que es la más seria y profesi
 
 #### 3. ¿Hacéis espejos de tamaño personalizado?
 
-Si por supuesto, los espejos los fabricamos nosotros así que si quieres tener las dimensiones exactas para tu baño o habitación sólo debes indicar en el [formulario de pedido](https://espejosdemaquillaje.es/contact/ "Pedido") "Dimensiones personalizadas" y ahí podrás indicar las medidas que necesitas y te hará automáticamente un cálculo del precio.
+Si por supuesto, los espejos los fabricamos nosotros así que si quieres tener las dimensiones exactas para tu baño o habitación sólo debes indicar en el [**formulario de pedido**](https://espejosdemaquillaje.es/contact/ "Pedido") "Dimensiones personalizadas" y ahí podrás indicar las medidas que necesitas y te hará automáticamente un cálculo del precio.
 
 #### 4. ¿Cómo hago para pagarlo?
 
