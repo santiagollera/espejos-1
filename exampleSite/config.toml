@@ -1,6 +1,6 @@
 baseURL = "espejosdemaquillaje.es"
 disableLanguages = ["fr"]
-disqusShortname = ""
+disqusShortname = "Espejos de Maquillaje"
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
