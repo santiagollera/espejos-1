@@ -9,18 +9,27 @@ information:
   info: 120x60cm
 - label: Precio
   info: 288€
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
+- label: Materiales
+  info: Tablero de partículas con borde plástico y pintura acrílica
+- label: Tiempo de elaboración
+  info: 4horas
+- label: Iluminación
+  info: Bombillas LED combinadas cálidas y frías para maquillaje profesional
 - label: Client
   info: Jannie Kelonsky
 
 ---
 ## Espejo Modelo Montse categoría profesional
 
+**Parte Superior:**  
+Tablero de fibra, pintura acrílica  
+**Marco:**  
+Tablero de Partículas borde de plástico  
+**Material de relleno:**  
+Cartón de panel de abeja: 70% recliclado como mínimo  
+**Base:**  
+Tablero de fibras  
+  
 Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su peso ligero hace que podamos transportarlo con facilidad si hace falta.
 
 Por estas características se convierte en una herramienta tanto para profesionales como amateurs del maquillaje, ya que te lo puedes llevar a trabajar en una boda y es lo suficientemente grande como para tenerlo en el baño o la mesa de tocador de la habitación.
