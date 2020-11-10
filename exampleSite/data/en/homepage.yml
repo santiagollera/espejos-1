@@ -50,9 +50,10 @@ cta:
 funfacts:
   enable: true
   title: Acerca de nosotros
-  description: |-
-    Somos una empresa que fabrica espejos de maquillaje a mano con mucho amor y dedicación.
-    Lorem ipsum dolor sit amet consectetur adipiscing elit, commodo proin elementum imperdiet iaculis rutrum pulvinar sagittis, montes tortor laoreet interdum eget velit. Vivamus velit viverra lacus mollis tempor hac tristique odio enim aliquet mattis placerat, rhoncus nisi luctus auctor purus non facilisi curae eros ornare nulla. Aenean eros facilisi natoque posuere elementum phasellus, sem dictumst pulvinar at magnis ullamcorper, volutpat imperdiet vehicula augue mi.
+  description: Somos una empresa española que fabrica espejos de maquillaje a mano
+    con mucho amor y dedicación. Una larga trayectoria nos avala con cientos de clientes
+    muy exigentes, profesionales del mundo del maquillaje, cine, televisión, teatro,
+    muchos de los influencer más famosos ya nos tienen en sus casas.
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Clientes contactados
