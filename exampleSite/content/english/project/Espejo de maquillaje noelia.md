@@ -10,11 +10,11 @@ information:
 - label: Precio
   info: 288€
 - label: Materiales
-  info: Tablero de partículas con borde plástico y pintura acrílica
+  info: Tablero de partículas y fibras
 - label: Tiempo de elaboración
   info: 8 horas
 - label: Iluminación
-  info: Bombillas LED combinadas cálidas y frías para maquillaje profesional 400lumens
+  info: Bombillas LED
 
 ---
 ## Espejo Modelo Montse categoría profesional
@@ -27,6 +27,9 @@ Tablero de Partículas borde de plástico
 Cartón de panel de abeja: 70% recliclado como mínimo  
 **Base:**  
 Tablero de fibras  
+**Iluminación:**  
+Bombillas LED combinadas cálidas y frías para maquillaje profesional 400lumens
+
   
 Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su peso ligero hace que podamos transportarlo con facilidad si hace falta.
 
