@@ -7,7 +7,7 @@ banner:
   content: AMA TU ESPEJO
   button:
     enable: true
-    label: Pedi Espejo
+    label: Pedir Espejo
     link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
 about:
   enable: true
