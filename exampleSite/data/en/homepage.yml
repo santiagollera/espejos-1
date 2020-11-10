@@ -70,11 +70,11 @@ funfacts:
   testimonial_slider:
   - name: César
     image: images/clients/avater-1.jpg
-    designation: Carpintero electricista
-    content: Me encanta fabricar espejos para maquillaje, le pongo el mayor cariño
-      y dedicación por esto logramos tan buenos resultados y la gente nos recomienda
+    designation: Ingeniero electrónico
+    content: Me encanta poner mi toque técnico en cada espejo. Le dedico el mayor
+      cariño y dedicación, por eso logramos tan buenos resultados y la gente nos recomienda.
   - name: Noelia
     image: images/clients/avater-3.jpg
-    designation: Diseñadora
-    content: 'Los diseños se hacen pensando siempre en la utilidad para el cliente
-      final y no en el coste y el beneficio empresarial. '
+    designation: Maquilladora
+    content: Cuando empecé en este proyecto me propuse el reto de que nuestros espejos
+      fueran definitivos.
