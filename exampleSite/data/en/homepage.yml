@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Ver modelos
-    link: project
+    link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
 about:
   enable: true
   title: Características Técnicas
