@@ -40,13 +40,13 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Un rostro mejor iluminado para un maquillaje perfecto
-  content: La luz es lo más importante para poder apreciar cada detalle de tu estilo.
+  content: La luz es lo más importante para poder apreciar cada detalle de tu piel.
     Nuestra iluminación LED profesional ofrece una visión muy detallada y clara del
-    rostro para poder estilizarlo como quieras
+    rostro para poder maquillar a la perfección cada zona de tu piel como quieras.
   button:
     enable: true
-    label: Ver modelos
-    link: project
+    label: Hacer pedido
+    link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
 funfacts:
   enable: true
   title: Acerca de nosotros
