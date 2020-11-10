@@ -27,12 +27,9 @@ Por estas características se convierte en una herramienta tanto para profesiona
 
 [![](/images/boton.png)](https://espejosdemaquillaje.netlify.app/contact/ "Pedir")
 
-#### Galería fotos del producto:![](/images/foto-tocador_02.png)
+#### Galería fotos del producto:
 
-![](/images/foto-tocador_03.png)
-
-![](/images/foto-tocador_04.png)
-
-![](/images/foto-tocador_05.png)
-
-![](/images/foto-tocador_06.png)
+![](/images/foto-tocador_011.png)![](/images/foto-tocador_022.png)![](/images/foto-tocador_032.png)  
+![](/images/foto-tocador_042.png)  
+![](/images/foto-tocador_052.png)  
+![](/images/foto-tocador_062.png)
