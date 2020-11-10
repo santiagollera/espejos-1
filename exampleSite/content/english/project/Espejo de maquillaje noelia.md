@@ -12,11 +12,9 @@ information:
 - label: Materiales
   info: Tablero de partículas con borde plástico y pintura acrílica
 - label: Tiempo de elaboración
-  info: 4horas
+  info: 8 horas
 - label: Iluminación
-  info: Bombillas LED combinadas cálidas y frías para maquillaje profesional
-- label: Client
-  info: Jannie Kelonsky
+  info: Bombillas LED combinadas cálidas y frías para maquillaje profesional 400lumens
 
 ---
 ## Espejo Modelo Montse categoría profesional
