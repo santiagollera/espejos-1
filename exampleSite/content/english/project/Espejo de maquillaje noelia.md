@@ -1,7 +1,7 @@
 ---
 title: Modelo Noelia
 description: 120x60cm
-image: "/images/wrapper-img.png"
+image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
