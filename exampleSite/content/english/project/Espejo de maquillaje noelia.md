@@ -6,7 +6,7 @@ bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
 - label: Colores disponibles
-  info: Blanco, verde, gris, negro, negro-marrón, haya
+  info: Blanco, verde, gris y negro
 - label: Dimensiones
   info: Según pedido
 - label: Materiales
