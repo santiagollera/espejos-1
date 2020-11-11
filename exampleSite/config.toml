@@ -36,6 +36,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
+URL = "https://wa.me/34620992550"
+name = "WhatsApp"
+weight = "5"
+[[Languages.en.menu.main]]
 URL = "https://espejosdemaquillaje.es/"
 name = "Inicio"
 weight = 1
