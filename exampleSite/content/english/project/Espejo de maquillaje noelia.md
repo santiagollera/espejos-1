@@ -1,6 +1,6 @@
 ---
 title: Detalles del Espejo
-description: ''
+description: Espejos de maquillaje
 image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
@@ -28,9 +28,9 @@ Tablero de fibras
 **Iluminación:**  
 Bombillas LED combinadas cálidas y frías para maquillaje profesional 400lumens
 
-Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan a prácticamente cualquier tocador y su peso ligero hace que podamos transportarlo con facilidad si hace falta.
+Nuestros espejos de maquillaje están construidos con los más altos estándares de seguridad y calidad del mercado. Desde los casquillos de las bombillas, hasta el pequeño interruptor y las luces LED de alta intensidad, con alternancia entre luz cálida y fría para el correcto reflejo de la piel.
 
-Por estas características se convierte en una herramienta tanto para profesionales como amateurs del maquillaje, ya que te lo puedes llevar a trabajar en una boda y es lo suficientemente grande como para tenerlo en el baño o la mesa de tocador de la habitación.
+Son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe o un interruptor.
 
 [![](/images/boton.png)](https://espejosdemaquillaje.es/contact/ "Pedido")
 
