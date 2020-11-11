@@ -43,7 +43,7 @@ service:
     name: Tranquilidad
     content: Tú sólo dinos qué espejo necesitas y nosotros nos encargamos de todo.
       Diseño, fabricación y envío.
-  - icon: ion-rocket
+  - icon: ion-compass
     name: Entregamos más rápido
     content: Nuestras entregas son las más rápidas y con seguro incluído. Garantizamos
       que el espejo te llegará en perfecto estado.
