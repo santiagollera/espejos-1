@@ -21,16 +21,7 @@ about:
     enable: true
     label: Contactar
     link: https://espejosdemaquillaje.netlify.app/contact/
-  funfacts:
-  - icon: ion-ios-heart-outline
-    name: Proyectos completados
-    count: "48"
-  - icon: ion-ios-chatboxes-outline
-    name: Emails contestados
-    count: "126"
-  - icon: ion-ios-compose-outline
-    name: Clientes satisfechos
-    count: "48"
+  funfacts: []
 features:
   enable: true
   title: We are indepented Design & Development Agency
