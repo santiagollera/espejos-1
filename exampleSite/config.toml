@@ -58,11 +58,11 @@ weight = 4
 [[Languages.en.menu.main]]
 URL = "faq"
 hasChildren = true
-name = "Soporte"
+name = "Preguntas"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contacto"
+name = "Pedidos"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
