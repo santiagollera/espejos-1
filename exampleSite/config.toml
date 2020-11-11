@@ -138,7 +138,7 @@ email = "espejosdemaquillaje.es@gmail.com"
 google_analitycs_id = ""
 location = "Madrid, España"
 logo = "images/logo.png"
-logo_width = "100px"
+logo_width = "150px"
 mobile = "+34 620992550"
 multi_author = false
 [params.cookies]
