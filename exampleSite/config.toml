@@ -142,10 +142,10 @@ logo_width = "150px"
 mobile = "+34 620992550"
 multi_author = false
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.gmap]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
