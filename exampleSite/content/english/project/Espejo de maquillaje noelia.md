@@ -10,7 +10,7 @@ information:
 - label: Precio
   info: 288€
 - label: Materiales
-  info: Tablero de partículas y fibras
+  info: Tablero partículas fibras
 - label: Tiempo de elaboración
   info: 8 horas
 - label: Iluminación
