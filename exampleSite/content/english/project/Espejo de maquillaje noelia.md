@@ -1,5 +1,5 @@
 ---
-title: Modelo Noelia
+title: Detalles del Espejo
 description: ''
 image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
