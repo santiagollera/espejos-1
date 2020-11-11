@@ -6,7 +6,7 @@ bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
 - label: Dimensiones
-  info: 120x60cm
+  info: Según pedido
 - label: Precio
   info: 288€
 - label: Materiales
