@@ -41,15 +41,15 @@ service:
       de clientes satisfechos. '
   - icon: ion-coffee
     name: Tranquilidad
-    content: 'Tú solo dinos qué espejo necesitas y nosotros nos encargamos de todo.
-      Diseño, fabricación y envío todo incluído en el precio. '
-  - icon: ion-compass
+    content: Tú sólo dinos qué espejo necesitas y nosotros nos encargamos de todo.
+      Diseño, fabricación y envío.
+  - icon: ion-rocket-outline
     name: Entregamos más rápido
-    content: Nuestras entregas son las más rápidas y con seguro incluído. El espejo
-      te llegará en perfecto estado, garantizado
-  - icon: ion-earth
+    content: Nuestras entregas son las más rápidas y con seguro incluído. Garantizamos
+      que el espejo te llegará en perfecto estado.
+  - icon: ion-card-outline
     name: Compra segura Online
     content: Nuestro comercio electrónico practica la compra segura a través de las
-      plataformas PayPal y Stripe
+      plataformas PayPal y Stripe.
 cta:
   enable: true
