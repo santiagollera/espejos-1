@@ -37,8 +37,8 @@ service:
   service_item:
   - icon: ion-ios-body-outline
     name: Clientes Satisfechos
-    content: Somos la empresa más recomendada del sector online y con el mayor ratio
-      de clientes satisfechos
+    content: 'Somos la empresa más recomendada del sector online y con el mayor ratio
+      de clientes satisfechos. '
   - icon: ion-coffee
     name: Tranquilidad
     content: 'Tú solo dinos qué espejo necesitas y nosotros nos encargamos de todo.
