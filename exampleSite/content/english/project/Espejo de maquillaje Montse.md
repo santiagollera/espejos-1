@@ -17,6 +17,7 @@ information:
   info: LED
 - label: Iluminación total
   info: 2000 lumens
+draft: true
 
 ---
 ## Espejo Modelo Montse categoría profesional
