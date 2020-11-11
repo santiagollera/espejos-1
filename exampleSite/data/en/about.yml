@@ -23,7 +23,7 @@ about:
     link: https://espejosdemaquillaje.netlify.app/contact/
   funfacts: []
 features:
-  enable: true
+  enable: false
   title: We are indepented Design & Development Agency
   feature_item:
   - icon: ion-ios-color-filter-outline
@@ -51,9 +51,9 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
-  enable: true
+  enable: false
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
