@@ -13,7 +13,7 @@ about:
     label: Ver modelos
     link: https://espejosdemaquillaje.es/project/
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Interface Design
     icon: ion-erlenmeyer-flask
