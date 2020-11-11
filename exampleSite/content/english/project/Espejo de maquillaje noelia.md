@@ -1,6 +1,6 @@
 ---
 title: Modelo Noelia
-description: Ver producto
+description: ''
 image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
