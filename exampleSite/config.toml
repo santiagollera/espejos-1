@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Espejos de Maquillaje"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 www.espejosdemaquillaje.es by Santiago Llera"
+copyright = "Copyright &copy; 2020 www.espejosdemaquillaje.es"
 languageCode = "es-Es"
 languageName = "Es"
 weight = "1"
