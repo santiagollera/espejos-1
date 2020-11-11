@@ -44,7 +44,7 @@ URL = "about"
 name = "Acerca de"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
+URL = "https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/"
 name = "Productos"
 weight = 3
 [[Languages.en.menu.main]]
