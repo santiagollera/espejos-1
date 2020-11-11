@@ -7,8 +7,6 @@ category: Amateur
 information:
 - label: Dimensiones
   info: Según pedido
-- label: Precio
-  info: 288€
 - label: Materiales
   info: Tablero partículas fibras
 - label: Tiempo de elaboración
