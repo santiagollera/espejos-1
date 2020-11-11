@@ -5,6 +5,8 @@ image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
+- label: Colores disponibles
+  info: Blanco, verde, gris, negro, negro-marrón, haya
 - label: Dimensiones
   info: Según pedido
 - label: Materiales
