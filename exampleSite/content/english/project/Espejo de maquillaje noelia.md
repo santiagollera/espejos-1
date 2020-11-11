@@ -17,8 +17,6 @@ information:
   info: Bombillas LED
 
 ---
-## Espejo Modelo Montse categoría profesional
-
 **Parte Superior:**  
 Tablero de fibra, pintura acrílica  
 **Marco:**  
@@ -34,7 +32,7 @@ Este espejo es el más versátil de la tienda, tiene dimensiones que se ajustan 
 
 Por estas características se convierte en una herramienta tanto para profesionales como amateurs del maquillaje, ya que te lo puedes llevar a trabajar en una boda y es lo suficientemente grande como para tenerlo en el baño o la mesa de tocador de la habitación.
 
-[![](/images/boton.png)](https://espejosdemaquillaje.netlify.app/contact/ "Pedir")
+                                                  [![](/images/boton.png)](https://espejosdemaquillaje.netlify.app/contact/ "Pedir")
 
 #### Galería fotos del producto:
 
