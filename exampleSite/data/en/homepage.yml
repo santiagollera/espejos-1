@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Pedir Espejo
-    link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
+    link: contact
 about:
   enable: true
   title: Calidad Prefesional a tu alcance
