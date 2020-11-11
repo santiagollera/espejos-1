@@ -48,8 +48,8 @@ URL = "https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/"
 name = "Productos"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "service"
-name = "Envíos"
+URL = "https://www.instagram.com/espejosdemaquillaje.es/?hl=es"
+name = "Instagram"
 weight = 4
 [[Languages.en.menu.main]]
 URL = "faq"
