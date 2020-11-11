@@ -45,7 +45,7 @@ name = "Acerca de"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
-name = "Tienda"
+name = "Productos"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "service"
