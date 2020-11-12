@@ -12,7 +12,7 @@ information:
 - label: Materiales
   info: Tablero partículas fibras
 - label: Iluminación
-  info: Bombillas LED
+  info: Bombillas LED 400lum
 
 ---
 ##### **Parte Superior:**
