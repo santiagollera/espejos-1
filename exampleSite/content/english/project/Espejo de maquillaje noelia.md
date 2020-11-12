@@ -15,6 +15,8 @@ information:
   info: Bombillas LED 400lum
 
 ---
+#### Los diferentes modelos se hacen a medida según las necesidades y el presupuesto del cliente
+
 ##### **Parte Superior:**
 
 ###### Tablero de fibra, pintura acrílica
