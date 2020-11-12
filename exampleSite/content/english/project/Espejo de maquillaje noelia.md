@@ -1,5 +1,5 @@
 ---
-title: Detalles del Espejo
+title: Detalles de los espejos
 description: Espejos de maquillaje
 image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
@@ -11,8 +11,6 @@ information:
   info: Según pedido
 - label: Materiales
   info: Tablero partículas fibras
-- label: Tiempo de elaboración
-  info: 8 horas
 - label: Iluminación
   info: Bombillas LED
 
