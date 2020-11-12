@@ -23,7 +23,7 @@ information:
 
 #### **Marco:**
 
-#### Tablero de Partículas borde de plástico
+##### Tablero de Partículas borde de plástico
 
 #### **Material de relleno:**
 
