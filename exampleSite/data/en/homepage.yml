@@ -69,11 +69,11 @@ funfacts:
     name: Clientes satisfechos
     count: "358"
   testimonial_slider:
-  - name: César
+  - name: Manu88
     image: images/clients/avater-1.jpg
-    designation: Ingeniero electrónico
-    content: Me encanta poner mi toque técnico en cada espejo. Le dedico el mayor
-      cariño y dedicación, por eso logramos tan buenos resultados y la gente nos recomienda.
+    designation: Cliente
+    content: El espejo ha quedado exacto de las medidas en mi salón de belleza y la
+      ilumnación no tiene nada que ver con el que tenía antes. Muy recomendable
   - name: Noelia
     image: images/avater-3.jpg
     designation: Maquilladora
