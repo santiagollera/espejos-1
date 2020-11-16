@@ -41,13 +41,12 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: Un rostro mejor iluminado para un maquillaje perfecto
-  content: La luz es lo más importante para poder apreciar cada detalle de tu piel.
-    Nuestra iluminación LED profesional ofrece una visión muy detallada y clara del
-    rostro para poder maquillar a la perfección cada zona de tu piel.
+  title: Oferta 15% Black Friday
+  content: En EspejosdeMaquillaje.es nos alargamos la oferta del Black Friday todo
+    el mes de noviembre y disfruta del 15% de descuento en todos nuestros productos
   button:
     enable: true
-    label: Detalles del espejo
+    label: Ver
     link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
 funfacts:
   enable: true
