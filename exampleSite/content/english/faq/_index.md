@@ -32,6 +32,6 @@ Nuestros precios ahora mismo son los mejores del mercado por lo que no hacemos r
 
 En caso de pedidos a partir de 3 espejos si que se puede hacer descuento de hasta el 15% por volumen.
 
-#### 6. ¿Y si quiero añadir más fbombillas o enchufes?
+#### 6. ¿Y si quiero añadir más bombillas o enchufes?
 
 No te preocupes, en [espejosdemaquillaje.es](http://espejosdemaquillaje.es/) sabemos que cada cliente tiene sus prioridades. Es por esto que, al ser fabricantes, nos adaptamos a tus necesidades y podemos configurar la totalidad de los espejos, número de luces, configuración de enchufe/interruptor, instalación de interruptor basculante o wifi, lado del cable de alimentación, etc.. .
