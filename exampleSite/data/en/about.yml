@@ -16,15 +16,17 @@ about:
     tiendas de estética, estudios de cine y TV son nuestros principales clientes pero
     sin dejar de lado al usuario particular que simplemente quiere darse el capricho
     de tener un buen espejo de maquillaje en casa.\n\nPonga sus reflejos en nuestras
-    manos y no se arrepentirá\n...\nCésar: Ingeniero Elctrónico\nMe encanta poner
-    mi toque técnico en cada espejo. Le dedico el mayor cariño y dedicación, por eso
-    logramos tan buenos resultados y la gente nos recomienda.\n....\nNoelia: Maquilladora\nCuando
-    empecé en este proyecto me propuse el reto de que nuestros espejos fueran definitivos."
+    manos y no se arrepentirá.\n....\nNoelia: Maquilladora\nCuando empecé en este
+    proyecto me propuse el reto de que nuestros espejos fueran definitivos."
   button:
     enable: true
     label: Contactar
     link: https://espejosdemaquillaje.netlify.app/contact/
   funfacts: []
+  description: |2-
+
+    César: Ingeniero Elctrónico
+    Me encanta poner mi toque técnico en cada espejo. Le dedico el mayor cariño y dedicación, por eso logramos tan buenos resultados y la gente nos recomienda.
 features:
   enable: false
   title: We are indepented Design & Development Agency
