@@ -35,3 +35,7 @@ En caso de pedidos a partir de 3 espejos si que se puede hacer descuento de hast
 #### 6. ¿Y si quiero añadir más bombillas o enchufes?
 
 No te preocupes, en [espejosdemaquillaje.es](http://espejosdemaquillaje.es/) sabemos que cada cliente tiene sus prioridades. Es por esto que, al ser fabricantes, nos adaptamos a tus necesidades y podemos configurar la totalidad de los espejos, número de luces, configuración de enchufe/interruptor, instalación de interruptor basculante o wifi, lado del cable de alimentación, etc.. .
+
+#### 7. ¿Cómo lo cuelgo?
+
+Nuestros espejos vienen de serie con unos colgadores de pared fáciles de instalar. En el caso de los tableros aligerados (los estándar) incluso se pueden colgar en paredes de pladur, por su poco peso.
