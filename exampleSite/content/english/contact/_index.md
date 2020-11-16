@@ -1,6 +1,6 @@
 ---
 title: Pedir un espejo
 description: o contáctanos con cualquier pregunta
-bg_image: images/acerca.jpg
+bg_image: "/images/maquillaje.png"
 
 ---
