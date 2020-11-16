@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/acerca.jpg
+  image: "/images/acerca-1.jpg"
   title: Nuestro maravilloso equipo
   content: "EspejosdeMaquillaje.es nace de una idea pionera en el mundo del maquillaje,
     de los pensamientos de nuestra maquilladora internacional Noelia Navarro. Líderes
