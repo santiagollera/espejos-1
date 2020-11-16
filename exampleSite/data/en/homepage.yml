@@ -40,7 +40,7 @@ service:
   description: Description
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/black.jpg
   title: Oferta 15% Black Friday
   content: En EspejosdeMaquillaje.es nos alargamos la oferta del Black Friday todo
     el mes de noviembre y disfruta del 15% de descuento en todos nuestros productos
