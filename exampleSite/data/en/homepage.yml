@@ -58,16 +58,16 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Clientes contactados
-    count: "125"
+    count: "3125"
   - icon: ion-ios-glasses-outline
     name: Modelos diseñados
     count: "18"
   - icon: ion-ios-compose-outline
     name: Peticiones completadas
-    count: "58"
+    count: "358"
   - icon: ion-ios-timer-outline
-    name: Días trabajados
-    count: "458"
+    name: Clientes satisfechos
+    count: "358"
   testimonial_slider:
   - name: César
     image: images/clients/avater-1.jpg
