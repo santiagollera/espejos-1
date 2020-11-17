@@ -36,7 +36,7 @@ portfolio:
 service:
   enable: true
   service_item: []
-  title: Test
+  title: Sólo este mes
   description: Sólo este mes en todos nuestros espejos, hechos a medidas y modelos
     estándares tienes los envíos gratis :)
 cta:
