@@ -17,7 +17,7 @@ information:
   info: Bombillas LED 400lum
 
 ---
-> ### Los diferentes modelos se hacen a medida según las necesidades y el presupuesto del cliente.
+> ### Este modelo 120x60cm está adaptado al tocador más vendido del mercado
 
 #### **Parte Superior:**
 
