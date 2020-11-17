@@ -11,8 +11,6 @@ information:
   info: 120x60cm
 - label: Colores disponibles
   info: Blanco, verde, gris y negro
-- label: Tocador
-  info: Adaptado al más vendido
 - label: Materiales
   info: Tablero partículas fibras
 - label: Iluminación
