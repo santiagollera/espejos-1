@@ -5,10 +5,12 @@ image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
 information:
+- label: Tocador
+  info: Adaptado al más vendido
 - label: Colores disponibles
   info: Blanco, verde, gris y negro
 - label: Dimensiones
-  info: Según pedido
+  info: 120x60cm
 - label: Materiales
   info: Tablero partículas fibras
 - label: Iluminación
