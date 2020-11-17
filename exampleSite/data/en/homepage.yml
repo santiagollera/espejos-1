@@ -37,7 +37,8 @@ service:
   enable: true
   service_item: []
   title: Test
-  description: Description
+  description: Sólo este mes en todos nuestros espejos, hechos a medidas y modelos
+    estándares tienes los envíos gratis :)
 cta:
   enable: true
   bg_image: images/black.jpg
