@@ -43,8 +43,6 @@ information:
 
 ##### Son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe o un interruptor.
 
-[![](/images/boton.png)](https://espejosdemaquillaje.es/contact/ "Pedido")
-
 #### Galería fotos del producto:  
 ![](/images/foto-tocador_062.png)
 
