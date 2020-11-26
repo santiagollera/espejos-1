@@ -34,7 +34,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
   service_item: []
   title: Sólo este mes
   description: Sólo este mes en todos nuestros espejos, hechos a medidas y modelos
