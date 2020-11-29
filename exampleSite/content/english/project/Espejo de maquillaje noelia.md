@@ -37,13 +37,14 @@ information:
 
 #### **Iluminación:**
 
-##### Bombillas LED combinadas cálidas y frías para maquillaje profesional 400lumens
+##### Bombillas LED combinadas cálidas y frías para maquillaje profesional de 1.350 lumens.
 
 ##### Nuestros espejos de maquillaje están construidos con los más altos estándares de seguridad y calidad del mercado. Desde los casquillos de las bombillas, hasta el pequeño interruptor y las luces LED de alta intensidad, con alternancia entre luz cálida y fría para el correcto reflejo de la piel.
 
 ##### Son de 5mm de grosor, con canto pulido. Los tableros aligerados y fáciles de colgar, harán que su instalación sea rápida y sencilla. Todos los modelos son configurables para adaptarnos a tus necesidades, como un mando a distancia, un enchufe o un interruptor.
 
-#### Galería fotos del producto:  
+#### Galería fotos del producto:
+
 ![](/images/foto-tocador_062.png)
 
 ![](/images/foto-tocador_011.png)![](/images/foto-tocador_022.png)![](/images/foto-tocador_032.png)  
