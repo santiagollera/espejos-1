@@ -14,7 +14,7 @@ information:
 - label: Materiales
   info: Tablero partículas fibras
 - label: Iluminación
-  info: Bombillas LED 400lum
+  info: Bombillas LED 1350lm
 
 ---
 > ### Este modelo 120x60cm está adaptado al tocador más vendido del mercado
