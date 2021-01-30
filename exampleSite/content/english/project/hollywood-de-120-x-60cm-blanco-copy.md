@@ -2,8 +2,8 @@
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Amateur"
 description = "Click en el nombre para abrir"
-image = "/images/foto-tocador_01.png"
-title = "Hollywood de 120 x 60cm Blanco-(copy)"
+image = "/images/espejonegropequeno-1.jpg"
+title = "Hollywood de 120 x 60cm Negro"
 [[information]]
 info = "119€ (envío incluído)"
 label = "Precio"
