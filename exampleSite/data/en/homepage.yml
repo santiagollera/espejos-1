@@ -39,16 +39,6 @@ service:
   title: Sólo este mes
   description: Sólo este mes en todos nuestros espejos, hechos a medidas y modelos
     estándares tienes los envíos gratis :)
-cta:
-  enable: true
-  bg_image: images/black.jpg
-  title: Oferta 15% Black Friday
-  content: En EspejosdeMaquillaje.es alargamos la oferta del Black Friday todo el
-    mes de noviembre y disfruta del 15% de descuento en todos nuestros productos
-  button:
-    enable: true
-    label: Ver
-    link: https://espejosdemaquillaje.es/project/espejo-de-maquillaje-noelia/
 funfacts:
   enable: true
   title: Acerca de nosotros
