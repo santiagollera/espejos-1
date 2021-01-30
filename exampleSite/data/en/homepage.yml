@@ -40,7 +40,7 @@ service:
   description: Sólo este mes en todos nuestros espejos, hechos a medidas y modelos
     estándares tienes los envíos gratis :)
 cta:
-  enable: false
+  enable: true
   bg_image: images/black.jpg
   title: Oferta 15% Black Friday
   content: En EspejosdeMaquillaje.es alargamos la oferta del Black Friday todo el
