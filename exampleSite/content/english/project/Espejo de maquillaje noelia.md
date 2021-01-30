@@ -1,6 +1,6 @@
 ---
-title: Detalles de los espejos
-description: Espejos de maquillaje
+title: Hollywood de 120 x 60cm Blanco
+description: Click en el nombre para abrir
 image: "/images/foto-tocador_01.png"
 bg_image: "/images/espejos-de-maquillaje.jpg"
 category: Amateur
