@@ -2,7 +2,6 @@
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Amateur"
 description = "Click en el nombre para abrir"
-draft = true
 image = "/images/foto-tocador_01.png"
 title = "Hollywood de 120 x 60cm Blanco-(copy)"
 [[information]]
