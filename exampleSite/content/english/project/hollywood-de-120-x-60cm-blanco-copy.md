@@ -2,6 +2,7 @@
 bg_image = "/images/espejos-de-maquillaje.jpg"
 category = "Amateur"
 description = "Click en el nombre para abrir"
+draft = true
 image = "/images/espejonegropequeno-1.jpg"
 title = "Hollywood de 120 x 60cm Negro"
 [[information]]
